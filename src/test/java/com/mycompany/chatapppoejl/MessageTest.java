@@ -66,3 +66,4 @@ public class MessageTest {
         assertEquals(2, Message.getTotalMessages());
     }
 }
+//completed test
