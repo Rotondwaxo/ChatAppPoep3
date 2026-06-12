@@ -67,3 +67,4 @@ public class Message {
     public static int getTotalMessages() { return messageCounter; }
     public static void resetCounter() { messageCounter = 0; }
 }
+//completed message class
